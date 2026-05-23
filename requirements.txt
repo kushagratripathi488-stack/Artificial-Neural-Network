@@ -1,0 +1,8 @@
+# You should set all the code dependencies before starting the programming
+# Ensure you've installed all the necessary packages, then run the following 
+# command after navigating to the current folder
+#
+#     pip freeze > requirements.txt
+#
+# If you ever download new libraries or change dependencies, you can re-run
+# that command to update them

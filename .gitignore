@@ -1,0 +1,37 @@
+# If you wish to add any more files or remove, feel free to do so.
+# But keep in mind to not push any dataset or other unnecessary files
+# The only necessary files are code (python and jupyter notebooks) and the report (pdf)
+
+#Dataset files
+data/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Visual Studio Code
+#   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
+#   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
+#   and can be added to the global gitignore or merged into this file. However, if you prefer, 
+#   you could uncomment the following to ignore the entire vscode folder
+# .vscode/
+# Temporary file for partial code execution
+tempCodeRunnerFile.py
